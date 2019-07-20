@@ -1,0 +1,20 @@
+baseURL = "https://wedding.nateanddanielle.love/"
+languageCode = "en-us"
+title = "Nate & Danielle's Wedding"
+
+[params]
+    title = "Nate & Danielle's Wedding"
+    subtitle = "February 22, 2020"
+
+[[params.registry.buttons]]
+	title = "The Seabin Project"
+	icon = "fas fa-fish"
+	url = "https://seabinproject.com/"
+[[params.registry.buttons]]
+	title = "Girls Who Code"
+	icon = "fas fa-laptop-code"
+	url = "https://girlswhocode.com/"
+[[params.registry.buttons]]
+	title = "Central Texas Food Bank"
+	icon = "fas fa-apple-crate"
+	url = "https://www.centraltexasfoodbank.org/"
