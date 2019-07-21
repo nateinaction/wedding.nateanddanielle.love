@@ -1,6 +1,7 @@
 baseURL = "https://wedding.nateanddanielle.love/"
 languageCode = "en-us"
 title = "Nate & Danielle's Wedding"
+publishDir = "docs"
 
 [params]
     title = "Nate & Danielle's Wedding"
