@@ -10,14 +10,5 @@
 	<atom:link href="https://wedding.nateanddanielle.love/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Venue</title>
-      <link>https://wedding.nateanddanielle.love/venue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wedding.nateanddanielle.love/venue/</guid>
-      <description>Zilker Club House</description>
-    </item>
-    
   </channel>
 </rss>
