@@ -11,11 +11,11 @@ publishDir = "docs"
 	title = "Thank you!"
 	url = "#thank-you"
 [[params.menu]]
+	title = "Dances"
+	url = "#first-Dances"
+[[params.menu]]
 	title = "Photos"
 	url = "#photos"
-[[params.menu]]
-	title = "Our Relationship"
-	url = "#our-relationship"
 [[params.menu]]
 	title = "Registry"
 	url = "#registry"
