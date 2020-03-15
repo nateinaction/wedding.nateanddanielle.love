@@ -12,7 +12,7 @@ publishDir = "docs"
 	url = "#thank-you"
 [[params.menu]]
 	title = "Dances"
-	url = "#first-Dances"
+	url = "#first-dance"
 [[params.menu]]
 	title = "Photos"
 	url = "#photos"
