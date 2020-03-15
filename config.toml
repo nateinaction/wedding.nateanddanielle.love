@@ -7,15 +7,28 @@ publishDir = "docs"
     title = "Nate & Danielle's Wedding"
     subtitle = "February 22, 2020"
 
-[[params.registry.buttons]]
+[[params.menu]]
+	title = "Thank you!"
+	url = "#thank-you"
+[[params.menu]]
+	title = "Photos"
+	url = "#photos"
+[[params.menu]]
+	title = "Our Relationship"
+	url = "#our-relationship"
+[[params.menu]]
+	title = "Registry"
+	url = "#registry"
+
+[[params.registry]]
 	title = "The Seabin Project"
 	icon = "fas fa-fish"
 	url = "https://seabinproject.com/"
-[[params.registry.buttons]]
+[[params.registry]]
 	title = "Girls Who Code"
 	icon = "fas fa-laptop-code"
 	url = "https://girlswhocode.com/"
-[[params.registry.buttons]]
+[[params.registry]]
 	title = "Central Texas Food Bank"
 	icon = "fas fa-apple-crate"
 	url = "https://www.centraltexasfoodbank.org/"

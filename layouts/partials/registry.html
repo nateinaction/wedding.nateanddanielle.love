@@ -5,7 +5,7 @@
 			<div class="content">
 				<p>Attending our wedding was the best gift we could ask for. In lieu of physical gifts, please consider contributing to one of our favorite charities.</p>
 				<div class="btn-toolbar header-buttons" role="toolbar" aria-label="Toolbar with button groups">
-					{{ range .Site.Params.registry.buttons }}
+					{{ range .Site.Params.registry }}
 						<a href="{{ .url }}"  class="btn btn-nate" role="button" target="_blank">
 							<i class="{{ .icon }}"></i> {{ .title }}
 						</a>
