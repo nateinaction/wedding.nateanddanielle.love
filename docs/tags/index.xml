@@ -5,10 +5,6 @@
     <link>https://wedding.nateanddanielle.love/tags/</link>
     <description>Recent content in Tags on Nate &amp; Danielle&#39;s Wedding</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://wedding.nateanddanielle.love/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://wedding.nateanddanielle.love/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
